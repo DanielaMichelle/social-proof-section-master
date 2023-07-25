@@ -16,7 +16,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/DanielaMichelle/social-proof-section-master
-- Live Site URL: 
+- Live Site URL: https://danielamichelle.github.io/social-proof-section-master/
 
 
 ### Built with
